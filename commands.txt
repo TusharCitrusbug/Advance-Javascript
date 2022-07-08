@@ -1,0 +1,7 @@
+#command to create new react app
+
+npx create-react-app <app-name>
+
+#  command to start
+
+cd <app-name>;npm start
